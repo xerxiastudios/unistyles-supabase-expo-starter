@@ -7,7 +7,7 @@ This repo can be used as a starting point to build apps using Supabase Auth and 
 Clone the repo
 
 ```bash
-  git clone https://github.com/xerxiastudios/unistyles-expo-starter.git myproject
+  git clone https://github.com/xerxiastudios/unistyles-supabase-expo-starter.git myproject
   cd myproject
   yarn install
 ```
