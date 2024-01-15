@@ -1,0 +1,1 @@
+{"version":3,"names":["isJest","global","process","env","JEST_WORKER_ID"],"sourceRoot":"../../src","sources":["PlatformChecker.ts"],"mappings":"AAAA,OAAO,SAASA,MAAM,GAAY;EAChC,IAAIC,MAAM,CAACC,OAAO,IAAI,IAAI,EAAE;IAC1B;IACA,OAAO,KAAK;EACd;EACA,OAAOA,OAAO,CAACC,GAAG,CAACC,cAAc,IAAI,IAAI;AAC3C"}

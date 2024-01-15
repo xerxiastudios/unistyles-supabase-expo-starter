@@ -1,0 +1,1 @@
+{"version":3,"file":"createMMKV.d.ts","sourceRoot":"","sources":["../../src/createMMKV.ts"],"names":[],"mappings":"AACA,OAAO,KAAK,EAAE,iBAAiB,EAAE,UAAU,EAAE,MAAM,mBAAmB,CAAC;AAGvE,OAAO,CAAC,MAAM,CAAC;IACb,SAAS,qBAAqB,CAAC,aAAa,EAAE,iBAAiB,GAAG,UAAU,CAAC;IAC7E,SAAS,kBAAkB,IAAI,OAAO,CAAC;CACxC;AAKD,eAAO,MAAM,UAAU,WAAY,iBAAiB,KAAG,UAyDtD,CAAC"}
