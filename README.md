@@ -48,3 +48,9 @@ For android
 - Cross platform
 - Dark Mode
 
+
+
+
+https://github.com/xerxiastudios/unistyles-supabase-expo-starter/assets/70348240/ed07ecc6-c5aa-4684-af1c-630aab4530fa
+
+
